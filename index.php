@@ -5,6 +5,6 @@
 </head>
 <body>
 	<h1>My first app</h1>
-	<?php echo "Hello app Empresariales - jpoh97"; ?>
+	<?php echo "Hello app Empresariales - jpoh97 master"; ?>
 </body>
 </html>
